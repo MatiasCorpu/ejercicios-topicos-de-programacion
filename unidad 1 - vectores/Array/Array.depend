@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1711710745 source:c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\vectores unidad 1\array\arrays_unidimencionales.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"Arrays.h"
+
+1711665905 c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\vectores unidad 1\array\arrays.h
+	<stdbool.h>
+
+1711710803 source:c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\vectores unidad 1\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arrays.h"
+

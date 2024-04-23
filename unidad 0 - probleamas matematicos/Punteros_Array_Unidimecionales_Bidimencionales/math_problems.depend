@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1711575253 source:c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\clase 1 ejercicios guia\punteros_array_unidimecionales_bidimencionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Unidad_1.h"
+
+1711574595 c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\clase 1 ejercicios guia\punteros_array_unidimecionales_bidimencionales\unidad_1.h
+	<stdio.h>
+	<stdbool.h>
+
+1711575482 source:c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\clase 1 ejercicios guia\punteros_array_unidimecionales_bidimencionales\unidad_1.c
+	<stdio.h>
+	"Unidad_1.h"
+
+1711577319 source:c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\clase 1 ejercicios guia\punteros_array_unidimecionales_bidimencionales\unidad_0.c
+	<stdio.h>
+	"Unidad_0.h"
+
+1711574595 c:\users\personal computer\desktop\me\materias\topicos de programación (recursada 2)\guia de ejercicios topicos\clase 1 ejercicios guia\punteros_array_unidimecionales_bidimencionales\unidad_0.h
+	<stdio.h>
+	<stdbool.h>
+
